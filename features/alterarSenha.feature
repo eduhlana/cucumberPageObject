@@ -5,7 +5,7 @@ Funcionalidade: Recuperar senha
 
     Esquema do Cenario: Recuperar a senha
         Dado que estou logado
-        Entao devo ir para a pagina "http://35.194.32.72:30080/home/change-password"
+        Entao devo ir para a pagina "http://35assword"
         Quando eu inserir <senhaAtual> no campo "senhaAtual"
         E eu inserir <novasenha> no campo "novasenha"
         E eu inserir <confirmaSenha> no campo "confirmaSenha"
