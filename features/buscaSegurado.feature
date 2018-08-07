@@ -9,7 +9,7 @@ Funcionalidade: Busca segurado
     E devo ir para a pagina "Busca de segurado"
     Quando eu selecionar <campo> e inserir <valor>
     E clicar em "Buscar"
-    Entao devo ir para a pagina "http://35.194.32.72:30080/home/assured/result"
+    Entao devo ir para a pagina "http://35.190/home/assured/result"
 
     Exemplos:
     |campo|valor|
