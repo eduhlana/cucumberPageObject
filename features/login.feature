@@ -8,7 +8,7 @@ Funcionalidade: Login
     Quando eu inserir <Usuario> no campo "usuario"
     E eu inserir <Senha> no campo "senha"
     E clicar em continuar
-    Entao devo ir para a pagina "http://35.194.32.72:30080/home/bla"
+    Entao devo ir para a pagina "http://35.194.3:30080/home/bla"
 
     Exemplos:
     |Usuario|Senha|
