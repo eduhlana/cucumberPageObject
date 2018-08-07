@@ -2,7 +2,7 @@
 import {Base} from "../../features/specs/base/base";
 import {Given, When, Then} from 'cucumber';
 import { when } from "q";
-var urlHome = 'http://35.194.32.72:30080/home/bla';
+var urlHome = 'http://bla';
 var campoLogin = "html/body/wl-root/wl-login-page/div/div/div/div/mat-form-field/div/div/div/input";
 var camposenha = "/html/body/wl-root/wl-login-page/div/div[1]/div/div[2]/wl-input-password/mat-form-field/div/div[1]/div[1]/input";
 var continuar = "/html/body/wl-root/wl-login-page/div/div[1]/div/div[3]/button";
