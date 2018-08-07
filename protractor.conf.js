@@ -12,7 +12,7 @@ exports.config = {
   takeScreenshots: true,
   savePath: 'result',
   filePrefix: 'resultado',
-  baseUrl: 'http://35.194.32.72:30080',
+  baseUrl: 'http://ggf',
   framework: 'custom',
   frameworkPath: require.resolve('protractor-cucumber-framework'),
   cucumberOpts: {
