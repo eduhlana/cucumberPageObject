@@ -1,0 +1,25 @@
+{
+  "name": "weblife",
+  "version": "1.0.0",
+  "description": "weblife cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor protractor.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.1.4",
+    "@types/chai-as-promised": "^7.1.0",
+    "@types/cucumber": "^4.0.4",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "^4.2.1",
+    "jasmine": "^3.1.0",
+    "protractor": "^5.4.0",
+    "protractor-cucumber-framework": "^6.0.0",
+    "protractor-html-hierarchical-reporter": "^1.6.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^3.0.1"
+  }
+}
